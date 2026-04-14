@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-githubpages",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SouOWendel/portfolio-githubpages#readme",
+  "bugs": {
+    "url": "https://github.com/SouOWendel/portfolio-githubpages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouOWendel/portfolio-githubpages.git"
+  },
+  "license": "ISC",
+  "author": "Wendel Henrique (SouOWendel)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
